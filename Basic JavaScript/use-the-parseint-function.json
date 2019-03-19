@@ -1,0 +1,1 @@
+{"index.js":"function convertToInteger(str) {\n  var num = parseInt(str);\n  return num;\n}\n\nconvertToInteger(\"56\");"}
