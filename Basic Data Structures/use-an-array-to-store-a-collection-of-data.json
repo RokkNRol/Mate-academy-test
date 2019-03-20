@@ -1,0 +1,1 @@
+{"index.js":"let yourArray = [\r\n    21, \"Bla-bla\", true, {\r\n        \"Bla\": \"La-la\",\r\n        \"Name\": \"jone\"\r\n    }, 54, \"Stric\"\r\n]; // change this line"}
